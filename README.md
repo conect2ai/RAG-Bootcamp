@@ -8,7 +8,7 @@ O projeto está organizado da seguinte forma:
 
 - **`/code`**: Contém o notebook Jupyter [`RAG_LLM_Basics_IEEE.ipynb`](./code/RAG_LLM_Basics_IEEE.ipynb) com a implementação prática do RAG
 - **`/presentation`**: Contém os slides [`rag_course_ieee.pdf`](./presentation/rag_course_ieee.pdf) utilizados na apresentação teórica
-- **`/documents`**: Contém o documento utilizado para a realização do RAG
+- **`/document`**: Contém o documento utilizado para a realização do RAG [`bandeira_tarifaria.pdf`](./document/bandeira_tarifaria.pdf)
 - **`LICENSE`**: Arquivo de licença do projeto
 - **`README.md`**: Este arquivo, com as instruções e a documentação do projeto
 
