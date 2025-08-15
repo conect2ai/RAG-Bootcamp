@@ -1,4 +1,11 @@
-# 🚀 RAG Bootcamp
+&nbsp;
+&nbsp;
+
+<p align="center">
+  <img width="800" src="./img/logo.jpg"
+</p>
+
+# RAG Bootcamp
 
 Uma introdução à técnica **Retrieval-Augmented Generation (RAG)**, demonstrando como construir uma aplicação de Q&A (Perguntas e Respostas) com **LangChain** e **Google Gemini**.
 
